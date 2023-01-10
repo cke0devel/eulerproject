@@ -1,0 +1,10 @@
+baseURL = 'https://cke0devel.github.io/eulerproject/'
+languageCode = 'ko-kr'
+title = 'Project Euler 솔루션'
+theme = 'hugo-book'
+
+publishDir = './docs'
+
+[params]
+    BookSearch = false
+    BookComments = false

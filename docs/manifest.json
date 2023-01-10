@@ -1,0 +1,15 @@
+{
+  "name": "Project Euler 솔루션",
+  "short_name": "Project Euler 솔루션",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
